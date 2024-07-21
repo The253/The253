@@ -59,8 +59,8 @@
 <section id="contact">
     <h2>Contact Me</h2>
     <p>If you have any questions or would like to connect, feel free to reach out!</p>
-    <p>Email: <a href="mailto:the253@example.com">the253@example.com</a></p>
-    <p>LinkedIn: <a href="https://www.linkedin.com/in/the253">linkedin.com/in/the253</a></p>
+    <p>Email: <a href="mailto: alphaabdoulkader@gmail.com">alphaabdoulkader@gmail.com</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/alfa-kader-2565a21b7/"</a></p>
 </section>
 
 <footer>
